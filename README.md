@@ -181,3 +181,7 @@ details.
 How to make contributions?
 --------------------------
 Please read and follow the steps in the [CONTRIBUTING](CONTRIBUTING.md)
+
+## references
+
+[https://tech.meituan.com/tags/lint.html](https://tech.meituan.com/tags/lint.html)
